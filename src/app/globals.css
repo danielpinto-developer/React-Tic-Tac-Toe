@@ -41,5 +41,5 @@ body {
   justify-content: flex-end; /* Align items at the bottom */
   align-items: center;
   background-color: rgba(255, 255, 255, 0.8); /* Optional: Add a semi-transparent background for better readability */
-  margin-top: 100px;
+  margin-top: 200px;
 }
