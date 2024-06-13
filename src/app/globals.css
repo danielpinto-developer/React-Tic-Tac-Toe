@@ -34,6 +34,6 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  width: 300px; /* Adjust width to fit your board */
-  height: 300px; /* Adjust height to fit your board */
+  width: 250px; /* Adjust width to fit your board */
+  height: 250px; /* Adjust height to fit your board */
 }
