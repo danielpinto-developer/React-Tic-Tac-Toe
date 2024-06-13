@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80vh; /* Full viewport height */
+  height: 100vh; /* Full viewport height */
   background: url('/background.jpg') no-repeat center center;
   background-size: cover;
 }
@@ -41,5 +41,5 @@ body {
   justify-content: flex-end; /* Align items at the bottom */
   align-items: center;
   background-color: rgba(255, 255, 255, 0.8); /* Optional: Add a semi-transparent background for better readability */
-  margin-top: 300px;
+  margin-top: 400px;
 }
