@@ -32,8 +32,8 @@ body {
 }
 
 .game-board {
-  padding: 40px;
-  border-radius: 40px;
+  padding: 20px;
+  border-radius: 20px;
   width: 250px; /* Adjust width to fit your board */
   height: 250px; /* Adjust height to fit your board */
   display: flex;
@@ -41,5 +41,5 @@ body {
   justify-content: flex-end; /* Align items at the bottom */
   align-items: center;
   background-color: rgba(255, 255, 255, 0.8); /* Optional: Add a semi-transparent background for better readability */
-  margin-top: 400px;
+  margin-top: 300px;
 }
